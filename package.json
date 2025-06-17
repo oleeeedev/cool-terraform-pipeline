@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "scripts": {
     "lint": "eslint .",
-    "test": "echo 'No tests yet!' && exit 0",
-    "build": "echo 'No build script defined yet!' && exit 0"
+    "test": "echo 'No tests yet!' && exit 0"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0"
   }
 }
